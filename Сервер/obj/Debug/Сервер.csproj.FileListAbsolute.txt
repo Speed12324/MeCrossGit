@@ -1,0 +1,5 @@
+D:\Visual Studio 2015 C#\Projects\Сервер\Сервер\obj\Debug\Сервер.TrustInfo.xml
+D:\Visual Studio 2015 C#\Projects\Сервер\Сервер\obj\Debug\Сервер.exe.manifest
+D:\Visual Studio 2015 C#\Projects\Сервер\Сервер\obj\Debug\Сервер.exe
+D:\Visual Studio 2015 C#\Projects\Сервер\Сервер\obj\Debug\Сервер.pdb
+D:\Visual Studio 2015 C#\Projects\Сервер\Сервер\obj\Debug\Сервер.csprojResolveAssemblyReference.cache

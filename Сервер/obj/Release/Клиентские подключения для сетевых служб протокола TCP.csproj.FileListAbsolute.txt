@@ -1,0 +1,5 @@
+C:\Users\yura\AppData\Local\Temporary Projects\Клиентские подключения для сетевых служб протокола TCP\bin\Release\Клиентские подключения для сетевых служб протокола TCP.exe.config
+C:\Users\yura\AppData\Local\Temporary Projects\Клиентские подключения для сетевых служб протокола TCP\bin\Release\Клиентские подключения для сетевых служб протокола TCP.exe
+C:\Users\yura\AppData\Local\Temporary Projects\Клиентские подключения для сетевых служб протокола TCP\bin\Release\Клиентские подключения для сетевых служб протокола TCP.pdb
+C:\Users\yura\AppData\Local\Temporary Projects\Клиентские подключения для сетевых служб протокола TCP\obj\Release\Клиентские подключения для сетевых служб протокола TCP.exe
+C:\Users\yura\AppData\Local\Temporary Projects\Клиентские подключения для сетевых служб протокола TCP\obj\Release\Клиентские подключения для сетевых служб протокола TCP.pdb

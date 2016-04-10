@@ -1,0 +1,6 @@
+C:\Users\yura\AppData\Local\Temporary Projects\Клиентские подключения для сетевых служб протокола TCP\bin\Debug\Клиентские подключения для сетевых служб протокола TCP.exe.config
+C:\Users\yura\AppData\Local\Temporary Projects\Клиентские подключения для сетевых служб протокола TCP\bin\Debug\Клиентские подключения для сетевых служб протокола TCP.exe
+C:\Users\yura\AppData\Local\Temporary Projects\Клиентские подключения для сетевых служб протокола TCP\bin\Debug\Клиентские подключения для сетевых служб протокола TCP.pdb
+C:\Users\yura\AppData\Local\Temporary Projects\Клиентские подключения для сетевых служб протокола TCP\obj\Debug\Клиентские подключения для сетевых служб протокола TCP.csprojResolveAssemblyReference.cache
+C:\Users\yura\AppData\Local\Temporary Projects\Клиентские подключения для сетевых служб протокола TCP\obj\Debug\Клиентские подключения для сетевых служб протокола TCP.exe
+C:\Users\yura\AppData\Local\Temporary Projects\Клиентские подключения для сетевых служб протокола TCP\obj\Debug\Клиентские подключения для сетевых служб протокола TCP.pdb
